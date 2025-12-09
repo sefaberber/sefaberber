@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sefa-berber-6a4479223" target="_blank">
+<a href="https://www.linkedin.com/in/sefa-berber/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
